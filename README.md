@@ -1,1 +1,1 @@
-This is a temper monker script to fix the spotify web font error.
+This is a tampermonkey script to fix the spotify web font style.
